@@ -9,7 +9,7 @@
       <div class="col-md-5">
       	<img src="images/about1.jpg" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="400">
       </div>
-    </div>.
+    </div>
     </div>
 
 
